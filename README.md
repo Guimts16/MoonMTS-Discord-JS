@@ -5,6 +5,10 @@
 
 Para a utilização do bot, se deve utilizar `npm install`, assim, instalará todos os modulos necessários para utilizar o bot.
 
+**OBS: Crie um arquivo como nome `config.json` e configure conforme necessário.**
+
+Exemplo: { token = "TOKEN" }
+
 # Linguagem
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
