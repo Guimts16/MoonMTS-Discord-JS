@@ -1,6 +1,5 @@
 # MoonMTS-Discord-JS
 
-## Bot de Geral para Discord!
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 Para a utilização do bot, se deve utilizar `npm install`, assim, instalará todos os modulos necessários para utilizar o bot.
